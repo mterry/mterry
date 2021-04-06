@@ -34,7 +34,6 @@ I am passioned, but headstrong. I am dedicated, tenacious, goal-oriented. I stri
 	- Verbose commenter
   - Server administration on baremetal or virtualized under Linux (RHEL, Debian, Ubuntu, Arch Linux, Gentoo), Windows Server
   - Application and microservice containerization
-  - 
   - vSphere, Docker, KVM, k8s, Ansible, Puppet, Azure, Git
   - Storage design and networking
     - FC, FCoE, iSCSI, SMB, NFS, HDFS, S3, Centera/Atmos/ECS API
