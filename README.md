@@ -3,7 +3,6 @@
 ### Contact
 
   - LinkedIn: http://ca.linkedin.com/pub/matthew-terry
-  - Signal: (613) 862-4297
 
 ### Objective
 
